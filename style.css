@@ -42,7 +42,7 @@ body {
   overflow: hidden;
   user-select: none;
   gap: var(--gap);
-  margin-bottom: 2rem;
+  margin-bottom: 1.1rem;
 }
 
 .marquee__content {
